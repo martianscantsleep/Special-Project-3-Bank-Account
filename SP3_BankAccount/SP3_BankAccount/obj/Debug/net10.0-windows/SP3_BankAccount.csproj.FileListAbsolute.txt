@@ -1,0 +1,17 @@
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\bin\Debug\net10.0-windows\SP3_BankAccount.exe
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\bin\Debug\net10.0-windows\SP3_BankAccount.deps.json
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\bin\Debug\net10.0-windows\SP3_BankAccount.runtimeconfig.json
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\bin\Debug\net10.0-windows\SP3_BankAccount.dll
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\bin\Debug\net10.0-windows\SP3_BankAccount.pdb
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.bankAccount.resources
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.csproj.GenerateResource.cache
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.AssemblyInfoInputs.cache
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.AssemblyInfo.cs
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.dll
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\refint\SP3_BankAccount.dll
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.pdb
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.genruntimeconfig.cache
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\ref\SP3_BankAccount.dll
+C:\Users\bethd\OneDrive\Desktop\Spring 2026\Found. in App Development\IT145\SP3_BankAccount\SP3_BankAccount\obj\Debug\net10.0-windows\SP3_BankAccount.Properties.Resources.resources
